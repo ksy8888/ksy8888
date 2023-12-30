@@ -54,6 +54,22 @@
 </div>
 
 #  🌱 The project I carried out 🌱
+<details>
+<summary>
+  1) 요리킹 조리킹 :poultry_leg: :fork_and_knife:
+</summary>
+  <p></p>
+   <b><a href="https://www.naver.com/">종합 요리 사이트</b><br>
+   다양한 음식 레시피/맛집을 볼 수 있고 공유주방 예약과 커뮤니티가 있는 사이트이다.
+</details>
+<details>
+<summary>
+  1) .ZIP :house_with_garden:
+</summary>
+  <p></p>
+   <b><a href="https://www.naver.com/">종합 부동산 사이트</b><br>
+   집/인테리어/청소/가구상품/커뮤니티 등을 구경할 수 있으며 인테리어/청소 예약과 가구 등의 상품을 구매할 수 있는 사이트이다.
+</details>
 
 <!--
 **ksy8888/ksy8888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
