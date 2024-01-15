@@ -83,7 +83,7 @@
 <br/>
 
 # 🤔 I'm currently studying algorithm of BOJ 🤔
-[리퍼지토리 위치](https://github.com/ksy8888/bog_codingTest/tree/master/%EB%B0%B1%EC%A4%80%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+[리퍼지토리 위치](https://github.com/ksy8888/bog_codingTest/tree/master/%EB%B0%B1%EC%A4%80%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/src)
      
 <!--
 **ksy8888/ksy8888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
