@@ -10,7 +10,7 @@
 
  #  :hammer: Technologies I have used and experienced :hammer:
  <div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <!-- Backend -->
+    <!-- BackEnd -->
     <p><strong>Backend & Framework</strong></p>
     <div>
       <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> 
@@ -21,7 +21,7 @@
       <img src="https://img.shields.io/badge/JPA-8c7859?style=flat-square&logo=JPA&logoColor=white">
       <img src="https://img.shields.io/badge/MyBatis-791606?style=flat-square&logo=MyBatis&logoColor=white">
     </div>
-   <!-- Frontend -->
+   <!-- FrontEnd -->
     <p><strong>Frontend</strong></p>
     <div>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
@@ -54,23 +54,37 @@
 </div>
 
 #  🌱 The project I carried out 🌱
+:bulb: 화살표를 누르고 링크를 클릭하시면 각 프로젝트 별로 문서를 열람하실 수 있습니다.
 <details>
 <summary>
   1) 요리킹 조리킹 :poultry_leg: :fork_and_knife:
 </summary>
   <p></p>
-   <b><a href="https://www.naver.com/">종합 요리 사이트</b><br>
+   <b><a href="https://drive.google.com/file/d/1gq6y0kwQ7_Yh6nBnHIsGoDHfIBFu-cbb/view?usp=drive_link">종합 요리 사이트</b><br>
    다양한 음식 레시피/맛집을 볼 수 있고 공유주방 예약과 커뮤니티가 있는 사이트이다.
 </details>
 <details>
 <summary>
-  1) .ZIP :house_with_garden:
+  2) .ZIP :house_with_garden:
 </summary>
   <p></p>
-   <b><a href="https://www.naver.com/">종합 부동산 사이트</b><br>
+   <b><a href="https://drive.google.com/file/d/1r1oTny7Rh69PCMvFHqrtG0qemyOpYoCT/view?usp=drive_link">종합 부동산 사이트</b><br>
    집/인테리어/청소/가구상품/커뮤니티 등을 구경할 수 있으며 인테리어/청소 예약과 가구 등의 상품을 구매할 수 있는 사이트이다.
 </details>
+<details>
+<summary>
+  3) 개인 프로젝트_Spring Boot :fire:
+</summary>
+  <p></p>
+   <b><a href="https://drive.google.com/file/d/1HXB5kAAeQqMf6W9suXSxhMKm0-nbkO3C/view?usp=drive_link">Spring Boot와 JPA를 활용한 개인 프로젝트</b><br>
+   BackEnd는 Spring Boot와 JPA를 이용하였고 , React/Redux와 ThymeLeaf로 Front를 구성했다. CRUD 중심의 프로젝트로, 목록/페이징 및 게시판 기능에 집중한 프로젝트이다.
+</details>
 
+<br/>
+
+# 🤔 I'm currently studying algorithm of BOJ 🤔
+[리퍼지토리 위치](https://github.com/ksy8888/bog_codingTest/tree/master/%EB%B0%B1%EC%A4%80%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+     
 <!--
 **ksy8888/ksy8888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
