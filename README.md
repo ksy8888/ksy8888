@@ -10,6 +10,10 @@
 
  #  :hammer: Technologies I have used and experienced :hammer:
  <div style="display:flex; flex-direction:column; align-items:flex-start;">
+   <!-- tableau -->
+     <p><strong>Tableau</strong></p>
+   <div>https://www.credly.com/badges/4cfb3f24-7249-4280-9500-1918ae640566/public_url</div>
+   <br>
     <!-- BackEnd -->
     <p><strong>Backend & Framework</strong></p>
     <div>
